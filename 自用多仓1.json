@@ -1,0 +1,15 @@
+{ 
+    "urls": [
+        { "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
+        { "url": "https://13413.kstore.space/tv/changqing.json", "name": "科技长青" },
+        { "url": "http://ok321.top/tv", "name": "OK" },
+        { "url": "http://74.120.175.78/JK/XYQTVBox/dj.json", "name": "香雅情" },
+        { "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json", "name": "蓝天LUCK" },
+        { "url": "https://git.acwing.com/shhentu/lzxw/-/raw/main/Monster.json", "name": "林中小屋" },
+        { "url": "https://chuanshuo.77blog.cn/tv.json", "name": "传说blog" },
+        { "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh", "name": "欧歌" },
+        { "url": "http://fmys.top/fmys.json", "name": "驸马影音" },
+        { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技" },
+        { "url": "http://tvbox.王二小放牛娃.top", "name": "放牛娃" }
+    ]
+}
