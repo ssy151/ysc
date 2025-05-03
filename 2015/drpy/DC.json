@@ -1,0 +1,24 @@
+{
+  "urls": [
+    {
+      "name": "🚸《测试影视》",
+      "url": "https://git.acwing.com/999/tvbox/-/raw/main/影视.json"
+    },
+    {
+      "name": "🚸《测试魔盒》",
+      "url": "https://gitee.com/lyun_1_0/tb/edit/master/魔盒.json"
+    },
+    {
+      "name": "🚸《测试采集》",
+      "url": "https://git.acwing.com/999/tvbox/-/raw/main/采集.json"
+    },
+    {
+      "name": "🚸《测试短剧》",
+      "url": "https://git.acwing.com/999/tvbox/-/raw/main/短剧.json"
+    },
+    {
+      "name": "🚸《测试休闲》",
+      "url": "https://d.kstore.dev/download/12194/休闲.json"
+    }
+  ]
+}
