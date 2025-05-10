@@ -846,6 +846,30 @@
             "categories": "",
             "key": "9bc17f0f-4b09-32ee-afaf-cbef5d4cba8b"
         },
+	{
+            "id": "58d35ee8-6181-4655-ad13-9a442adea29f"
+            "name": "阿里BB资源网",
+            "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json/",
+            "playUrl": "",
+            "group": "默认",
+            "search": 1,
+            "isActive": true,
+            "type": 1,
+            "ext": "",
+            "categories": "",
+        },
+        {
+            "id": "69433902-e462-45d8-8396-6739a78c79ab"
+            "name": "奥斯卡资源",
+            "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "group": "默认",
+            "search": 1,
+            "isActive": true,
+           "type": 1,
+           "ext": "",
+           "categories": "",
+    },
         {
             "id": "a18448a6-f14b-ef60-1893-514a86e63c1c",
             "name": "云解析资源网",
