@@ -49,22 +49,6 @@
             "isActive": true
         },        
         {
-            "id": "58d35ee8-6181-4655-ad13-9a442adea29f",
-            "name": "阿里BB资源网",
-            "url": "https://www.siwazyw.tv/api.php/provide/vod/at/json/",
-            "epg": "",
-            "type": "remote",
-            "isActive": true
-        },
-        {
-            "id": "69433902-e462-45d8-8396-6739a78c79ab",
-            "name": "奥斯卡资源",
-            "url": "https://aosikazy.com/api.php/provide/vod/?ac=list",
-            "epg": "",
-            "type": "remote",
-            "isActive": true
-        },
-        {
             "name": "秒看电视",
             "url": "https://pan.shangui.cc/f/w7Y4fg/%E7%94%B5%E8%A7%86%E5%AE%B6.txt",
             "epg": "",
