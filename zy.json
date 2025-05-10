@@ -837,10 +837,11 @@
             "playUrl": "",
             "group": "默认",
             "search": 1,
-            "isActive": true,
+            "isActive": false,
             "type": 1,
             "ext": "",
             "categories": "",
+	    "key": "58d35ee8-6181-4655-ad13-9a442adea29f"
         },
         {
             "id": "69433902-e462-45d8-8396-6739a78c79ab"
@@ -849,10 +850,11 @@
             "playUrl": "",
             "group": "默认",
             "search": 1,
-            "isActive": true,
+            "isActive": false,
            "type": 1,
            "ext": "",
            "categories": "",
+	   "key": "69433902-e462-45d8-8396-6739a78c79ab"
     },
         {
             "id": "a18448a6-f14b-ef60-1893-514a86e63c1c",
