@@ -271,8 +271,3 @@ https://v17.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
 https://v12.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WEtv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="国际",WETV (Women's Entertainment) - Eastern
 https://v14.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="乌镇" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/直播中国.png" group-title="🏖️旅游直播",乌镇
-https://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
-#EXTINF:-1 tvg-name="珠穆朗玛峰" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/直播中国.png" group-title="🏖️旅游直播",珠穆朗玛峰
-https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
